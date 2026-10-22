@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# Temporary and swap files
+*.tmp
+*.bak
+*.swp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
